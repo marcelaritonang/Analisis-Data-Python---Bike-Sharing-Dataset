@@ -42,7 +42,7 @@ Proyek ini bertujuan untuk menganalisis data penggunaan sepeda menggunakan dua d
 
 ## Catatan
 Pastikan dataset dan hasil analisis data tersedia di direktori yang sama dengan script `app.py` untuk memastikan dashboard berjalan dengan lancar.
-## Streamlit ![image]<br><br>(https://github.com/marcelaritonang/Analisis-Data-Python---Bike-Sharing-Dataset/assets/62584017/99f1401f-3fe9-4b05-b75d-ac763ba1438c)LINK : [https://many-buckets-sleep.loca.lt](https://many-buckets-sleep.loca.lt)
+## Streamlit ![image](https://github.com/marcelaritonang/Analisis-Data-Python---Bike-Sharing-Dataset/assets/62584017/99f1401f-3fe9-4b05-b75d-ac763ba1438c) <br><br> LINK : [https://many-buckets-sleep.loca.lt](https://many-buckets-sleep.loca.lt)
 ## Referensi
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
