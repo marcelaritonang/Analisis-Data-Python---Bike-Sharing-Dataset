@@ -1,0 +1,2 @@
+streamlit: https://many-buckets-sleep.loca.lt
+github : https://github.com/marcelaritonang/Analisis-Data-Python---Bike-Sharing-Dataset
